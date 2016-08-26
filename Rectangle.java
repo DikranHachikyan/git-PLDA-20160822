@@ -5,4 +5,10 @@ public class Rectangle extends Point{
  public void draw(){
  
  }
+ public void are () {
+int x;
+int y;
+int S;
+S = x*y;
+}
 } 
