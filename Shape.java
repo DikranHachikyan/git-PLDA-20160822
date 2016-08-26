@@ -6,5 +6,6 @@ public interface Shape{
     public void update();
 	public void scale( int dx, int dy);
 	public void delete();
+    public void mergeWithShape(Shape shape);
     public void change();
 }
