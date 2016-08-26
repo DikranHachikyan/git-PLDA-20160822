@@ -3,6 +3,8 @@ package shapes;
 public class Point implements Shape{
 	private int x;
 	private int y;
+    
+    private char c;
 
 	public void draw(){
 	

@@ -6,4 +6,5 @@ public interface Shape{
     public void update();
 	public void scale( int dx, int dy);
 	public void delete();
+    public void change();
 }
