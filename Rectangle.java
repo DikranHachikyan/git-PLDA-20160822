@@ -5,4 +5,8 @@ public class Rectangle extends Point{
  public void draw(){
  
  }
+
+ public void clear(){
+
+ }
 } 
